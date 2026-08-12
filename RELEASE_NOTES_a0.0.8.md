@@ -1,6 +1,6 @@
 # Quest Book a0.0.8 — Windows x64
 
-The Russian and English editions of Quest Book are available in the same release. This is an alpha version of the standalone local quest journal for Windows 10/11 x64.
+The English and Russian editions of Quest Book are available in the same release. This is an alpha version of the standalone local quest journal for Windows 10/11 x64.
 
 Русская и английская версии Quest Book доступны в одном релизе. Это альфа-версия самостоятельного локального журнала заданий для Windows 10/11 x64.
 
@@ -25,8 +25,8 @@ Extract the complete archive before launch. Do not move the EXE away from the ot
 
 ## Local data / Локальные данные
 
-- RU: `%APPDATA%\Quest Book\quests.json`;
 - EN: `%APPDATA%\Quest Book EN\quests.json`.
+- RU: `%APPDATA%\Quest Book\quests.json`.
 
 The application does not send quest data to the developer and does not use telemetry or analytics.
 
@@ -46,8 +46,8 @@ These alpha builds are not digitally signed with a paid developer certificate. W
 ## SHA-256
 
 ```text
-d9c14bfed88bee0963c14326283c5621d36f9fe57f40d2a77097a7f22ba039cd  QuestBook-a0.0.8-Windows-x64.zip
 cef13c4a89387851b84336534aba1eba1ffa32d0f8eaf8735d00529df5466e84  QuestBook-EN-a0.0.8-Windows-x64.zip
+d9c14bfed88bee0963c14326283c5621d36f9fe57f40d2a77097a7f22ba039cd  QuestBook-a0.0.8-Windows-x64.zip
 ```
 
 This is an unofficial fan-made project and is not affiliated with Blizzard Entertainment.
