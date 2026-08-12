@@ -1,0 +1,2 @@
+cef13c4a89387851b84336534aba1eba1ffa32d0f8eaf8735d00529df5466e84  QuestBook-EN-a0.0.8-Windows-x64.zip
+d9c14bfed88bee0963c14326283c5621d36f9fe57f40d2a77097a7f22ba039cd  QuestBook-a0.0.8-Windows-x64.zip
