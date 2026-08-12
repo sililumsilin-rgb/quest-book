@@ -9,6 +9,12 @@ Quest Book is a standalone local quest journal inspired by the classic fantasy M
 > Current version: **a0.0.8 (alpha)**  
 > Platform: **Windows 10/11 x64**
 
+## Download
+
+- **English:** [Download Quest Book EN a0.0.8 for Windows x64](https://github.com/sililumsilin-rgb/quest-book/releases/download/a0.0.8/QuestBook-EN-a0.0.8-Windows-x64.zip)
+- **Русский:** [Скачать Quest Book RU a0.0.8 для Windows x64](https://github.com/sililumsilin-rgb/quest-book/releases/download/a0.0.8/QuestBook-a0.0.8-Windows-x64.zip)
+- [Release page, checksums, and version notes](https://github.com/sililumsilin-rgb/quest-book/releases/tag/a0.0.8)
+
 ## English
 
 **Quest Book** is a standalone journal for personal quests and goals, styled after the classic World of Warcraft 3.3.5 interface.
