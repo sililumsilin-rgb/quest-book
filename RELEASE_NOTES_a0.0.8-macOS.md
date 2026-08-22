@@ -4,6 +4,8 @@ The English and Russian editions are included in the same release. This is the f
 
 Русская и английская версии входят в один релиз. Это первый публичный релиз самостоятельного локального журнала заданий для macOS.
 
+![Quest Book English interface](https://raw.githubusercontent.com/sililumsilin-rgb/quest-book/main/quest-book-interface-en.png)
+
 ## Downloads / Файлы
 
 - **EN:** `QuestBook-EN-a0.0.8-macOS-AppleSilicon.zip` — open `Quest Book EN.app`.

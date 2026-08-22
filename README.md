@@ -9,6 +9,10 @@ Quest Book is a standalone local journal for personal quests and goals, inspired
 > Current version: **a0.0.8 (alpha)**  
 > Platforms: **macOS 12+ on Apple Silicon** and **Windows 10/11 x64**
 
+## Interface preview
+
+![Quest Book English interface](quest-book-interface-en.png)
+
 ## Download
 
 ### macOS — Apple Silicon
